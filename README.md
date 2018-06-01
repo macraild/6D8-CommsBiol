@@ -1,5 +1,7 @@
 # 6D8-CommsBiol
-Custom code used in the analysis reported in Communications Biology, 2018
+Custom code used in the analysis reported in:
+[Krishnarjuna *et al* Transient antibody-antigen interactions mediate the strain-specific recognition of a conserved
+malaria epitope *Communications Biology* (2018) 1:58](http://dx.doi.org/10.1038/s42003-018-0063-1)
 
 This code is provided in the hope that it will help to explain our analysis 
 or be of some assistance to anyone looking to implment something similar. 
